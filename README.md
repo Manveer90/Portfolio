@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]((https://portfolio-gamma-ten-f2g2346n1p.vercel.app/))
+🔗 [View Portfolio Live](https://portfolio-gamma-ten-f2g2346n1p.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -52,5 +52,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik]((https://portfolio-gamma-ten-f2g2346n1p.vercel.app/)).
+This project was created with ❤️ by [Tarun Kaushik](https://portfolio-gamma-ten-f2g2346n1p.vercel.app/).
 If you like it, feel free to ⭐ this repository and share!
