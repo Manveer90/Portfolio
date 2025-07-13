@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/Manveer90/Portfolio]
 cd your-repo-name
 ````
 
@@ -52,5 +52,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://portfolio-gamma-ten-f2g2346n1p.vercel.app/).
+This project was created with ❤️ by [Manveer Singh](https://portfolio-gamma-ten-f2g2346n1p.vercel.app/).
 If you like it, feel free to ⭐ this repository and share!
