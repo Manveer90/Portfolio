@@ -39,7 +39,7 @@ npm install
 ### 3. Run the App
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### 4. Build for Production
